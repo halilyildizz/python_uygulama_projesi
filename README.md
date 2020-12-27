@@ -1,5 +1,6 @@
 # python_uygulama_projesi
 Python Uygulama Projesi
+
 Merhaba bu biopsy veri setinde kansere yakalanmış olan hastaların yaşları kanserin ilerleme durumu gibi farklı paremetreler üzerinden oluşan bir veri setinde analiz ve veri tahmini yapmaya çalıştım.
 Veri setinde "?" ile olan belirsiz paremetreler içeren veri satırlarını sildim.
 Ardından verileri analiz ederek bir tahmin yöntemi hazırladım.
